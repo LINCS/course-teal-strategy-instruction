@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="457" modulename="choice" contextid="724">
+  <choice id="8">
+    <name>How Often Do You Assign a Written Summary to Your Students?</name>
+    <intro>&lt;p&gt;We are learning about how the processes of active comprehension, engagement with texts, and writing summaries can spur cognitive and writing development. In addition, we learned that summarization is a key skill and expectation for success in postsecondary education. Given that, shouldn't we be assigning summarization activities more often to our students? Give us your baseline--&lt;span class="nolink"&gt;how often do you assign a written summary?&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>0</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1473689710</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="35">
+        <text>Never</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473689710</timemodified>
+      </option>
+      <option id="36">
+        <text>Sometimes (1 per semester)</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473689710</timemodified>
+      </option>
+      <option id="37">
+        <text>Frequently (1 per month)</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473689710</timemodified>
+      </option>
+      <option id="38">
+        <text>Regulary (1 per week)</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473689710</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>

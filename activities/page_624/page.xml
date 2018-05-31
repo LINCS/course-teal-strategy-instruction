@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="103" moduleid="624" modulename="page" contextid="939">
+  <page id="103">
+    <name>Presentation 1: Strategy Instruction in Math [Video]</name>
+    <intro>&lt;p&gt;Strategy instruction in math presentation.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt;&lt;a style="color: #0000ff;" href="https://TEAL.ed.gov" target="_top"&gt;&lt;span style="color: #000000;"&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Watch the presentation below.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/9XJ_1GqvDjQ?hl=en_US&amp;amp;version=3&amp;amp;rel=0" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;" size="3"&gt;[&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Strategy Instruction Math Transcript" href="@@PLUGINFILE@@/TEAL_5_Strategy%20Instruction%20PPT_6-20-2013_MacRev-RASRev.pdf" target="_blank"&gt;Transcript of Presentation&lt;/a&gt;&lt;/span&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-overflow"&gt;
+&lt;p style="text-align: left;"&gt;In the two videos below, note the way the instructors respond to students’ answers.  What do you notice about the teachers’ questions and comments? &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here:&lt;a style="color: #0000ff;" href="http://www.adobe.com/go/getflashplayer" target="_top"&gt; &lt;/a&gt;&lt;a title="Flash Player" href="http://www.adobe.com/go/getflashplayer" target="_blank"&gt;&lt;span style="font-size: xx-small;" size="1"&gt;http://www.adobe.com/go/getflashplayer&lt;/span&gt;&lt;/a&gt;]&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>12</revision>
+    <timemodified>1473690098</timemodified>
+  </page>
+</activity>

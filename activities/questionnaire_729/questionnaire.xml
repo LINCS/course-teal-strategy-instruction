@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="729" modulename="questionnaire" contextid="1073">
+  <questionnaire id="7">
+    <course>13</course>
+    <name>Math Self-Assessment</name>
+    <intro>&lt;div style="text-align: center;"&gt;Please take the self-assessment below. &lt;br /&gt;&lt;br /&gt;After you complete and click &amp;quot;submit questionnaire&amp;quot; on the bottom of the page,&lt;br /&gt; you will be redirected to the answer key to check your answers. &lt;/div&gt;</intro>
+    <introformat>0</introformat>
+    <qtype>0</qtype>
+    <respondenttype>fullname</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>0</resume>
+    <navigate>1</navigate>
+    <grade>0</grade>
+    <sid>7</sid>
+    <timemodified>1473690887</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="7">
+        <name>Self-Assessment</name>
+        <owner>13</owner>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Self-Assessment</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info></info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head>Answer Key</thank_head>
+        <thank_body>&lt;div style="text-align: center;"&gt;Thank you for completing this Questionnaire. Click on the following link to view &lt;a title="Answer Key" href="@@PLUGINFILE@@/StrategyInstructionMathAnswerKey.pdf" target="_blank"&gt;Answer Key&lt;/a&gt; [PDF].&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt;[temporary window]&lt;/div&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="105">
+            <survey_id>7</survey_id>
+            <name>#1</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>3</precise>
+            <position>2</position>
+            <content>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:DoNotOptimizeForBrowser/&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;
+	mso-para-margin:0pt;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+&lt;/style&gt;
+&lt;![endif]--&gt;&lt;span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;Proficient writers do a lot of planning, whereas struggling writers often start writing without any planning. What 3 key things do proficient writers do when they plan?</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="106">
+            <survey_id>7</survey_id>
+            <name>#2</name>
+            <type_id>8</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>5</length>
+            <precise>2</precise>
+            <position>2</position>
+            <content>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:DoNotOptimizeForBrowser/&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;The SRSD model of strategy instruction includes 5 instructional steps that make up a strategy for teaching strategies. Put them in order.</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="229">
+                <question_id>106</question_id>
+                <content>Support it.</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="230">
+                <question_id>106</question_id>
+                <content>Make it your own.</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="231">
+                <question_id>106</question_id>
+                <content>Independent performance.</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="232">
+                <question_id>106</question_id>
+                <content>Discuss it.</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="233">
+                <question_id>106</question_id>
+                <content>Model it.</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="107">
+            <survey_id>7</survey_id>
+            <name>#3</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>2</position>
+            <content>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="--"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;p&gt;List at least 3 of the 5 instructional strategies recommended in the following resource: &lt;a title="Improving Mathematical Problem Solving in Grades 4 through 8: A Practice Guide" href="http://ies.ed.gov/ncee/wwc/pdf/practice_guides/mps_pg_052212.pdf#page=29" target="_blank"&gt;&lt;span style="line-height: 1.231;"&gt;Improving Mathematical Problem Solving in Grades 4 through 8: A Practice Guide&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="108">
+            <survey_id>7</survey_id>
+            <name>#4</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>4</precise>
+            <position>5</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt; &lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+&lt;/style&gt;
+&lt;![endif]--&gt;&lt;span style="font-size: 10pt; font-family: "tahoma","sans-serif";"&gt;What are the instructional components of explicit strategy instruction?&lt;/span&gt;&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="234">
+                <question_id>108</question_id>
+                <content>1. provide clear explanations</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="235">
+                <question_id>108</question_id>
+                <content>2. model the learning process (I do)</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="236">
+                <question_id>108</question_id>
+                <content>3. engage in scaffolded practice (we do and you do)</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="237">
+                <question_id>108</question_id>
+                <content>4. provide elaborated feedback</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="109">
+            <survey_id>7</survey_id>
+            <name>#4</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>3</precise>
+            <position>6</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt; &lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+&lt;/style&gt;
+&lt;![endif]--&gt;&lt;span style="font-size: 11pt; line-height: 115%; font-family: "calibri","sans-serif";"&gt;What are the instructional components of explicit strategy instruction?&lt;/span&gt;&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="110">
+            <survey_id>7</survey_id>
+            <name>#6</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>3</precise>
+            <position>6</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt; A strategy is not very useful if learners only use the strategy in the class where they learned it. List 3 things that instructors can do to support learners in generalizing use of the strategy to other classes and settings.(See chapter 3 in &lt;i&gt;Writing Better&lt;/i&gt; by Graham and Harris). &lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="111">
+            <survey_id>7</survey_id>
+            <name>#5</name>
+            <type_id>4</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>0</precise>
+            <position>4</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt; According to Janice Dole, which 2 reading comprehension strategies are generally most effective? &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;&lt;/p&gt;
+&lt;p&gt; a) making predictions&lt;br /&gt;b) summarizing&lt;br /&gt;c) asking questions&lt;br /&gt;d) visualizing&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="238">
+                <question_id>111</question_id>
+                <content>a and b</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="239">
+                <question_id>111</question_id>
+                <content>b and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="240">
+                <question_id>111</question_id>
+                <content>c and d</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="241">
+                <question_id>111</question_id>
+                <content>a and c</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="242">
+                <question_id>111</question_id>
+                <content>a and d</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="243">
+                <question_id>111</question_id>
+                <content>b and d</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="112">
+            <survey_id>7</survey_id>
+            <name>#6</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>5</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt;What are some of the questions you want your students to ask &lt;em&gt;themselves &lt;/em&gt;when they approach a problem&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="113">
+            <survey_id>7</survey_id>
+            <name>#7</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>7</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt;When students practice summarizing, teachers need to give them feedback on whether their summaries are well done, and students should learn to self-evaluate their summaries. What are 3 criteria for an effective summary?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="114">
+            <survey_id>7</survey_id>
+            <name>#8</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>7</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt;When do students need to use generalizations to form a summary?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="115">
+            <survey_id>7</survey_id>
+            <name>#9</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>7</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt;In the POW + TREE strategy, what does the TREE stand for, and why is it important?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="116">
+            <survey_id>7</survey_id>
+            <name>#12</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>1</length>
+            <precise>3</precise>
+            <position>10</position>
+            <content>&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt; Normal 0 false false false EN-US X-NONE X-NONE &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt; &lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;	mso-para-margin:0pt;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Cambria","serif";	mso-ascii-font-family:Cambria;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Cambria;	mso-hansi-theme-font:minor-latin;}&lt;/style&gt;&lt;![endif]--&gt;
+&lt;p&gt; Self-Regulated Strategy Development is obviously related to the earlier unit on Self-Regulated Learning. Take one concept from that earlier unit and explain how it applies to teaching writing strategies.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="117">
+            <survey_id>7</survey_id>
+            <name>#5</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>4</position>
+            <content>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:DontVertAlignCellWithSp/&gt;
+   &lt;w:DontBreakConstrainedForcedTables/&gt;
+   &lt;w:DontVertAlignInTxbx/&gt;
+   &lt;w:Word11KerningPairs/&gt;
+   &lt;w:CachedColBalance/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="--"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;p&gt;What visual representations can use with your students to illustrate mathematical concepts.  List at least four.&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="118">
+            <survey_id>7</survey_id>
+            <name>#4</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>10</position>
+            <content>&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&amp;#010; &lt;w:WordDocument&gt;&amp;#010;  &lt;w:View&gt;Normal&lt;/w:View&gt;&amp;#010;  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;&amp;#010;  &lt;w:TrackMoves/&gt;&amp;#010;  &lt;w:TrackFormatting/&gt;&amp;#010;  &lt;w:PunctuationKerning/&gt;&amp;#010;  &lt;w:ValidateAgainstSchemas/&gt;&amp;#010;  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;&amp;#010;  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;&amp;#010;  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;&amp;#010;  &lt;w:DoNotPromoteQF/&gt;&amp;#010;  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;&amp;#010;  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;&amp;#010;  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;&amp;#010;  &lt;w:Compatibility&gt;&amp;#010;   &lt;w:BreakWrappedTables/&gt;&amp;#010;   &lt;w:SnapToGridInCell/&gt;&amp;#010;   &lt;w:WrapTextWithPunct/&gt;&amp;#010;   &lt;w:UseAsianBreakRules/&gt;&amp;#010;   &lt;w:DontGrowAutofit/&gt;&amp;#010;   &lt;w:SplitPgBreakAndParaMark/&gt;&amp;#010;   &lt;w:DontVertAlignCellWithSp/&gt;&amp;#010;   &lt;w:DontBreakConstrainedForcedTables/&gt;&amp;#010;   &lt;w:DontVertAlignInTxbx/&gt;&amp;#010;   &lt;w:Word11KerningPairs/&gt;&amp;#010;   &lt;w:CachedColBalance/&gt;&amp;#010;  &lt;/w:Compatibility&gt;&amp;#010;  &lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;&amp;#010;  &lt;m:mathPr&gt;&amp;#010;   &lt;m:mathFont m:val="Cambria Math"/&gt;&amp;#010;   &lt;m:brkBin m:val="before"/&gt;&amp;#010;   &lt;m:brkBinSub m:val="&amp;#45;-"/&gt;&amp;#010;   &lt;m:smallFrac m:val="off"/&gt;&amp;#010;   &lt;m:dispDef/&gt;&amp;#010;   &lt;m:lMargin m:val="0"/&gt;&amp;#010;   &lt;m:rMargin m:val="0"/&gt;&amp;#010;   &lt;m:defJc m:val="centerGroup"/&gt;&amp;#010;   &lt;m:wrapIndent m:val="1440"/&gt;&amp;#010;   &lt;m:intLim m:val="subSup"/&gt;&amp;#010;   &lt;m:naryLim m:val="undOvr"/&gt;&amp;#010;  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;&amp;#010;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&amp;#010; &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"&amp;#010;  DefSemiHidden="true" DefQFormat="false" DefPriority="99"&amp;#010;  LatentStyleCount="267"&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="0" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Normal"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 7"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 8"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" Name="toc 9"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="10" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Title"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="11" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="22" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Strong"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="20" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="59" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Table Grid"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="34" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="29" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Quote"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="30" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="60" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Shading Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="61" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light List Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="62" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Light Grid Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="63" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="64" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="65" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="66" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="67" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="68" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="69" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="70" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Dark List Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="71" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="72" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful List Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="73" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="19" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="21" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="31" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="32" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="33" SemiHidden="false"&amp;#010;   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="37" Name="Bibliography"/&gt;&amp;#010;  &lt;w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/&gt;&amp;#010; &lt;/w:LatentStyles&gt;&amp;#010;&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&amp;#010;&lt;style&gt;&amp;#010; /* Style Definitions */&amp;#010; table.MsoNormalTable&amp;#010;	{mso-style-name:"Table Normal";&amp;#010;	mso-tstyle-rowband-size:0;&amp;#010;	mso-tstyle-colband-size:0;&amp;#010;	mso-style-noshow:yes;&amp;#010;	mso-style-priority:99;&amp;#010;	mso-style-qformat:yes;&amp;#010;	mso-style-parent:"";&amp;#010;	mso-padding-alt:0in 5.4pt 0in 5.4pt;&amp;#010;	mso-para-margin:0in;&amp;#010;	mso-para-margin-bottom:.0001pt;&amp;#010;	mso-pagination:widow-orphan;&amp;#010;	font-size:11.0pt;&amp;#010;	font-family:"Calibri","sans-serif";&amp;#010;	mso-ascii-font-family:Calibri;&amp;#010;	mso-ascii-theme-font:minor-latin;&amp;#010;	mso-fareast-font-family:"Times New Roman";&amp;#010;	mso-fareast-theme-font:minor-fareast;&amp;#010;	mso-hansi-font-family:Calibri;&amp;#010;	mso-hansi-theme-font:minor-latin;&amp;#010;	mso-bidi-font-family:"Times New Roman";&amp;#010;	mso-bidi-theme-font:minor-bidi;}&amp;#010;&lt;/style&gt;&amp;#010;&lt;![endif]--&gt;&lt;span style="font-size: 10pt;"&gt;What are the instructional components of explicit strategy instruction? &lt;/span&gt;</content>
+            <required>y</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="119">
+            <survey_id>7</survey_id>
+            <name>Which of the following describ</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p&gt;Which of the following describe mathematically proficient students?&lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="244">
+                <question_id>119</question_id>
+                <content>a.  Can represent mathematical situations in different ways (e.g., using pictures, manipulatives, number lines, charts) and know when to use them in different situations</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="245">
+                <question_id>119</question_id>
+                <content>b.  Know when and how to use procedures</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="246">
+                <question_id>119</question_id>
+                <content>c.  Never use a calculator, computer, or manipulatives</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="247">
+                <question_id>119</question_id>
+                <content>d. Exhibit flexibility in solving non-routine problems; can use reasoning, guess-and check, algebraic and other approaches</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="248">
+                <question_id>119</question_id>
+                <content>e.  Can justify their mathematical claims and make them clear to others</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="249">
+                <question_id>119</question_id>
+                <content>f.  Think math is purposeful only in the classroom</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="250">
+                <question_id>119</question_id>
+                <content>g. Estimate results and make predictions</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="251">
+                <question_id>119</question_id>
+                <content>h. Think that only the lucky few can understand math</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="252">
+                <question_id>119</question_id>
+                <content>i. Rarely see how patterns, facts, procedures, concepts and solution methods fit together</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+          <question id="120">
+            <survey_id>7</survey_id>
+            <name>#4</name>
+            <type_id>5</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>3</position>
+            <content>&lt;p&gt;Learning to provide guided practice is one of the most difficult parts of strategy instruction for teachers. Which of the following activities can be part of guided practice? Check as many as appropriate. &lt;/p&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+              <quest_choice id="253">
+                <question_id>120</question_id>
+                <content>a. provide clear explanations</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="254">
+                <question_id>120</question_id>
+                <content>b. model the learning process (I do)</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="255">
+                <question_id>120</question_id>
+                <content>c. engage in scaffolded practice (we do and you do)</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+              <quest_choice id="256">
+                <question_id>120</question_id>
+                <content>d. provide elaborated feedback</content>
+                <value>$@NULL@$</value>
+              </quest_choice>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

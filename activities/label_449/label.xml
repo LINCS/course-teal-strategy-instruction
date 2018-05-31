@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="115" moduleid="449" modulename="label" contextid="716">
+  <label id="115">
+    <name>Post a journal entry about your familiarity with s...</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;Post a journal entry about your familiarity with strategy instruction.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1380823246</timemodified>
+  </label>
+</activity>

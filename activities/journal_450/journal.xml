@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="450" modulename="journal" contextid="717">
+  <journal id="15">
+    <name>Rate Your Knowledge: What do you know about Strategy Instruction?</name>
+    <intro>&lt;p&gt;Tell us what &lt;span style="font-style: italic;"&gt;you&lt;/span&gt; know about &lt;span class="glossary autolink glossaryid1"&gt;strategy instruction&lt;/span&gt;&lt;span class="glossary autolink glossaryid1"&gt; (SI)&lt;/span&gt;. Add a journal entry (about 3 sentences) of your understanding of &lt;span class="glossary autolink glossaryid1"&gt;SI &lt;/span&gt;and tell us if you consider yourself an...&lt;br /&gt;- &lt;span class="glossary autolink glossaryid1"&gt;SI E&lt;/span&gt;xpert--You apply the principles in your teaching every day;&lt;br /&gt;- &lt;span class="glossary autolink glossaryid1"&gt;SI N&lt;/span&gt;ovice--You consider the principles of strategy instruction and are learning more about the concept all the time;&lt;br /&gt;- &lt;span class="glossary autolink glossaryid1"&gt;SI N&lt;/span&gt;ewbie--The term &lt;em&gt;Strategy Instruction&lt;/em&gt; and its principles are still new to you.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <days>0</days>
+    <grade>-4</grade>
+    <timemodified>1473688569</timemodified>
+    <entries>
+    </entries>
+  </journal>
+</activity>

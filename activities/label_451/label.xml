@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="116" moduleid="451" modulename="label" contextid="718">
+  <label id="116">
+    <name>If you have not taken other LINCS Moodle courses, ...</name>
+    <intro>&lt;p&gt;&lt;span style="line-height: 14px; widows: 2; text-transform: none; background-color: #ffffff; font-variant: normal; font-style: normal; text-indent: 0px; display: inline !important; font-family: arial,helvetica,sans-serif; white-space: normal; orphans: 2; float: none; letter-spacing: normal; color: #000000; font-weight: normal; word-spacing: 0px;"&gt;If you have not taken other LINCS Moodle courses, read the following article about the differences between online and face-to-face learning.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1380827504</timemodified>
+  </label>
+</activity>

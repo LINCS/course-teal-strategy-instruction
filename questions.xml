@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="27">
+    <name>Default for Introduction to Moodle</name>
+    <contextid>194</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>13</contextinstanceid>
+    <info>The default category for questions shared in context 'Introduction to Moodle'.</info>
+    <infoformat>0</infoformat>
+    <stamp>mentors.moodlerooms.com+100911205958+S7lN2X</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="93">
+        <parent>0</parent>
+        <name>Please describe what you have learned in this course.</name>
+        <questiontext></questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912195131+ccS5rH</stamp>
+        <version>mentors.moodlerooms.com+100912195131+oRmSzq</version>
+        <hidden>0</hidden>
+        <timecreated>1284321091</timecreated>
+        <timemodified>1284321091</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="18">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>0</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="94">
+        <parent>0</parent>
+        <name>How many people are on your team, including yourself?</name>
+        <questiontext>How many people are on your team, including yourself?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912195326+EH3IX2</stamp>
+        <version>mentors.moodlerooms.com+100912195326+BhyQZ1</version>
+        <hidden>0</hidden>
+        <timecreated>1284321206</timecreated>
+        <timemodified>1284321206</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="250">
+              <answertext>1</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="251">
+              <answertext>2</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="252">
+              <answertext>5</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="253">
+              <answertext>6</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="35">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="95">
+        <parent>0</parent>
+        <name>There is no difference in how you should approach face to face and online learning.</name>
+        <questiontext>There is no difference in how you should approach face to face and online learning.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912195540+MncOo2</stamp>
+        <version>mentors.moodlerooms.com+100912195540+8aXXHT</version>
+        <hidden>0</hidden>
+        <timecreated>1284321340</timecreated>
+        <timemodified>1284321340</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="254">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="255">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="19">
+            <trueanswer>254</trueanswer>
+            <falseanswer>255</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="96">
+        <parent>0</parent>
+        <name>Name all the states participating in this course.</name>
+        <questiontext>Name all the states participating in this course.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912195638+1c2fqq</stamp>
+        <version>mentors.moodlerooms.com+100912195638+lw94IC</version>
+        <hidden>0</hidden>
+        <timecreated>1284321398</timecreated>
+        <timemodified>1284321398</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="19">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>0</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="97">
+        <parent>0</parent>
+        <name>What technology can you use in Moodle to work on a group project document?</name>
+        <questiontext>What technology can you use in Moodle to work on a group project document?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912195934+Gx8vwr</stamp>
+        <version>mentors.moodlerooms.com+100912195934+6ObzdN</version>
+        <hidden>0</hidden>
+        <timecreated>1284321574</timecreated>
+        <timemodified>1284321574</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <answers>
+            <answer id="256">
+              <answertext>Book</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="257">
+              <answertext>Forum</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="258">
+              <answertext>Wiki</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <shortanswer id="15">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="98">
+        <parent>0</parent>
+        <name>How many courses are in this overall TEAL course?</name>
+        <questiontext>How many courses are in this overall TEAL course?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200234+4tEsy3</stamp>
+        <version>mentors.moodlerooms.com+100912200234+YG23fK</version>
+        <hidden>0</hidden>
+        <timecreated>1284321754</timecreated>
+        <timemodified>1284321754</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="259">
+              <answertext>1</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="260">
+              <answertext>6</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="261">
+              <answertext>4</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="36">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="99">
+        <parent>0</parent>
+        <name>You should contact your instructor if you have a question about the course.</name>
+        <questiontext>You should contact your instructor if you have a question about the course.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200356+iQc4RF</stamp>
+        <version>mentors.moodlerooms.com+100912200356+x3y6Dt</version>
+        <hidden>0</hidden>
+        <timecreated>1284321836</timecreated>
+        <timemodified>1284321836</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="262">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="263">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="20">
+            <trueanswer>262</trueanswer>
+            <falseanswer>263</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="100">
+        <parent>0</parent>
+        <name>Your state coordinator is here to help you be successful in this course.</name>
+        <questiontext>Your state coordinator is here to help you be successful in this course.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200500+4h2tau</stamp>
+        <version>mentors.moodlerooms.com+100912200500+VXsm32</version>
+        <hidden>0</hidden>
+        <timecreated>1284321900</timecreated>
+        <timemodified>1284321900</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="264">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="265">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="21">
+            <trueanswer>264</trueanswer>
+            <falseanswer>265</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="101">
+        <parent>0</parent>
+        <name>Anyone can participate in this course.</name>
+        <questiontext>Anyone can participate in this course.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200606+le7mLf</stamp>
+        <version>mentors.moodlerooms.com+100912200606+KxBVdT</version>
+        <hidden>0</hidden>
+        <timecreated>1284321966</timecreated>
+        <timemodified>1284321966</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="266">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="267">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="22">
+            <trueanswer>266</trueanswer>
+            <falseanswer>267</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="102">
+        <parent>0</parent>
+        <name>A person needs a password to participate in this course.</name>
+        <questiontext>A person needs a password to participate in this course.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200642+rfxqlR</stamp>
+        <version>mentors.moodlerooms.com+100912200642+BQdx9H</version>
+        <hidden>0</hidden>
+        <timecreated>1284322002</timecreated>
+        <timemodified>1284322002</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="268">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="269">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="23">
+            <trueanswer>268</trueanswer>
+            <falseanswer>269</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="103">
+        <parent>0</parent>
+        <name>What is the main TEAL website?</name>
+        <questiontext>What is the main TEAL website?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912200920+MYkbEh</stamp>
+        <version>mentors.moodlerooms.com+100912200920+HugrE5</version>
+        <hidden>0</hidden>
+        <timecreated>1284322160</timecreated>
+        <timemodified>1284322160</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="270">
+              <answertext>teal.air.org</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="271">
+              <answertext>teal.air.com</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="272">
+              <answertext>teal.projects.air.com</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="273">
+              <answertext>teal.projects.org</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="37">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="104">
+        <parent>0</parent>
+        <name>Please describe the ABE program in your state.</name>
+        <questiontext>Please describe the ABE program in your state.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912201340+GjGYYd</stamp>
+        <version>mentors.moodlerooms.com+100912201340+Rz8gaW</version>
+        <hidden>0</hidden>
+        <timecreated>1284322420</timecreated>
+        <timemodified>1284322420</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="20">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>0</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="105">
+        <parent>0</parent>
+        <name>When does each course take place?</name>
+        <questiontext>When does each course take place?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100912201611+9vhqqM</stamp>
+        <version>mentors.moodlerooms.com+100912201611+2nNjyW</version>
+        <hidden>0</hidden>
+        <timecreated>1284322571</timecreated>
+        <timemodified>1284322571</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="9">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>0</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="40">
+              <questiontext>UDL</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>October</answertext>
+            </match>
+            <match id="41">
+              <questiontext>Differentiated Instruction</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>December</answertext>
+            </match>
+            <match id="42">
+              <questiontext>Course Building</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>March</answertext>
+            </match>
+            <match id="43">
+              <questiontext></questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>January</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="106">
+        <parent>0</parent>
+        <name>Evaluate the importance of the Proclamation to the progress of the War and to later generations in the U.S.</name>
+        <questiontext>&lt;p&gt;Evaluate the importance of the Proclamation to the progress of the War and to later generations in the U.S.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926203334+EiTyBZ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926203334+mqSG7H</version>
+        <hidden>0</hidden>
+        <timecreated>1380227614</timecreated>
+        <timemodified>1380227614</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="274">
+              <answertext>&lt;p&gt;1&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="275">
+              <answertext>&lt;p&gt;2&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="276">
+              <answertext>&lt;p&gt;3&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="277">
+              <answertext>&lt;p&gt;4&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="38">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="107">
+        <parent>0</parent>
+        <name>Quest1</name>
+        <questiontext>&lt;p&gt;You have just read a historical account of how Lincoln came to issue the Emancipation Proclamation. Here are some reasonable questions you might ask that differ in cognitive level. Put them in order from lower-order to higher-order questions&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>0.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>description</qtype>
+        <length>0</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926203407+FqPRXZ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926203407+cAzVnk</version>
+        <hidden>0</hidden>
+        <timecreated>1380227647</timecreated>
+        <timemodified>1380227647</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="108">
+        <parent>0</parent>
+        <name>When did Lincoln issue the Proclamation, and how many years was it after the start of the Civil War?</name>
+        <questiontext>&lt;p&gt;When did Lincoln issue the Proclamation, and how many years was it after the start of the Civil War?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926203555+fGi2Jr</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926203555+qpjLqE</version>
+        <hidden>0</hidden>
+        <timecreated>1380227755</timecreated>
+        <timemodified>1380227755</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="278">
+              <answertext>&lt;p&gt;1&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="279">
+              <answertext>&lt;p&gt;2&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="280">
+              <answertext>&lt;p&gt;3&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="281">
+              <answertext>&lt;p&gt;4&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="39">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="109">
+        <parent>0</parent>
+        <name>c.	The Proclamation did not free all slaves. What were its limitations?</name>
+        <questiontext>&lt;p&gt;The Proclamation did not free all slaves. What were its limitations?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926203806+unLDGb</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926203806+z43ZKb</version>
+        <hidden>0</hidden>
+        <timecreated>1380227886</timecreated>
+        <timemodified>1380227886</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="282">
+              <answertext>&lt;p&gt;1&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="283">
+              <answertext>&lt;p&gt;2&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="284">
+              <answertext>&lt;p&gt;3&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="285">
+              <answertext>&lt;p&gt;4&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="40">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="110">
+        <parent>0</parent>
+        <name>d.	What events in the War led Lincoln to issue the Proclamation at the particular time?</name>
+        <questiontext>&lt;p&gt;What events in the War led Lincoln to issue the Proclamation at the particular time?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926203949+T9pa0i</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926203949+zDhHxo</version>
+        <hidden>0</hidden>
+        <timecreated>1380227989</timecreated>
+        <timemodified>1380227989</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="286">
+              <answertext>&lt;p&gt;1&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="287">
+              <answertext>&lt;p&gt;2&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="288">
+              <answertext>&lt;p&gt;3&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="289">
+              <answertext>&lt;p&gt;4&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="41">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="111">
+        <parent>0</parent>
+        <name>Which KWL Steps Activitate Prior Knowledge</name>
+        <questiontext>&lt;p&gt;A critical aspect of learning is activating prior knowledge about a topic in order to make connections to new information. Which step or steps in the KWL strategy encourage students to activate prior knowledge?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926204716+6aiKCk</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926224022+jJoJe8</version>
+        <hidden>0</hidden>
+        <timecreated>1380228436</timecreated>
+        <timemodified>1380235222</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="290">
+              <answertext>&lt;p&gt;K&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="291">
+              <answertext>&lt;p&gt;W&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="292">
+              <answertext>&lt;p&gt;L&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="42">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Both the K and the W help activate prior knowledge. K asks directly what the learners already know. W requires activation of prior knowledge to ask meaningful questions.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Both the K and the W help activate prior knowledge. K asks directly what the learners already know. W requires activation of prior knowledge to ask meaningful questions.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Both the K and the W help activate prior knowledge. K asks directly what the learners already know. W requires activation of prior knowledge to ask meaningful questions.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="112">
+        <parent>0</parent>
+        <name>Which of the following strategies are included in Reciprocal Teaching</name>
+        <questiontext>&lt;p&gt;Which of the following strategies are included in Reciprocal Teaching?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926205731+li9lh7</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926224636+QzqnUN</version>
+        <hidden>0</hidden>
+        <timecreated>1380229051</timecreated>
+        <timemodified>1380235596</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="293">
+              <answertext>&lt;p&gt;Asking main idea questions&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="294">
+              <answertext>&lt;p&gt;Asking what the author means&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="295">
+              <answertext>&lt;p&gt;Making predictions&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="296">
+              <answertext>&lt;p&gt;Activating prior knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="297">
+              <answertext>&lt;p&gt;Asking what one already knows about a topic&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="298">
+              <answertext>&lt;p&gt;Summarizing&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="299">
+              <answertext>&lt;p&gt;Asking for clarification of words and concepts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="43">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;
+&lt;p&gt;The following strategies are included in Reciprocal Teaching:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asking main idea questions,&lt;/li&gt;
+&lt;li&gt;Making predictions,&lt;/li&gt;
+&lt;li&gt;Summarizing, and&lt;/li&gt;
+&lt;li&gt;Asking for clarification of words and concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The following strategies are included in Reciprocal Teaching:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asking main idea questions,&lt;/li&gt;
+&lt;li&gt;Making predictions,&lt;/li&gt;
+&lt;li&gt;Summarizing, and&lt;/li&gt;
+&lt;li&gt;Asking for clarification of words and concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The following strategies are included in Reciprocal Teaching:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asking main idea questions,&lt;/li&gt;
+&lt;li&gt;Making predictions,&lt;/li&gt;
+&lt;li&gt;Summarizing, and&lt;/li&gt;
+&lt;li&gt;Asking for clarification of words and concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="113">
+        <parent>0</parent>
+        <name>Match the group of sample questions to the question type</name>
+        <questiontext>&lt;p&gt;Match the group of sample questions to the question type&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926210116+zejBkA</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131214004719+kkqIY9</version>
+        <hidden>0</hidden>
+        <timecreated>1380229276</timecreated>
+        <timemodified>1386982039</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="10">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>0</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="44">
+              <questiontext>&lt;p&gt;&lt;em&gt;Can you explain what you have done so far? What else is there to do?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why did you decide to use this method?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you think of a more efficient strategy?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why did you decide to organize your results like that?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How do you think this would work with other numbers?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What do you notice when….?&lt;/em&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Questions to check progress</answertext>
+            </match>
+            <match id="45">
+              <questiontext>&lt;p&gt;&lt;em&gt;Is that true for all cases? Explain.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How would you prove that?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you think of a counter example?&lt;/em&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Questions to develop mathematical reasoning</answertext>
+            </match>
+            <match id="46">
+              <questiontext>&lt;p&gt;&lt;em&gt;What do you need to find out?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What strategies are you going to use?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What information do you have?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Will a calculator help? How?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What tools will you need?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What do you think the answer or result will be?&lt;/em&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Questions to promote problem solving</answertext>
+            </match>
+            <match id="47">
+              <questiontext>&lt;p&gt;&lt;em&gt;What do you think about what … said?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do you agree or disagree? Why or why not?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Does anyone have the same answer but a different way to &lt;/em&gt;&lt;em style="line-height: 1.231;"&gt;explain it?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you convince the rest of us that your answer makes &lt;/em&gt;&lt;em style="line-height: 1.231;"&gt;sense?&lt;/em&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Questions to help students collectively make sense of mathematics</answertext>
+            </match>
+            <match id="48">
+              <questiontext>&lt;p&gt;&lt;em&gt;How did you get your answer?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What if you could only use…?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Does your answer seem reasonable? Why or why not?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can you describe your method to us all? Can you explain &lt;/em&gt;&lt;em style="line-height: 1.231;"&gt;why it works?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What have you learned or found out today?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What are the key points or big ideas in this lesson?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What if you had started with…rather than …?&lt;/em&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Questions to generate reflection</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="114">
+        <parent>0</parent>
+        <name>Which verbs when used in a question elicit higher level thinking?</name>
+        <questiontext>&lt;p&gt;Which verbs when used in a question elicit higher level thinking?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;In addition to those shown as correct, other verbs that elicit higher level thinking when used for questioning include: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;contrast&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;describe&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;differentiate&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;predict&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926214055+acMWZ9</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131214003706+2OvkOh</version>
+        <hidden>0</hidden>
+        <timecreated>1380231655</timecreated>
+        <timemodified>1386981426</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="300">
+              <answertext>&lt;p&gt;observe&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="301">
+              <answertext>&lt;p&gt;evaluate&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="302">
+              <answertext>&lt;p&gt;name&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="303">
+              <answertext>&lt;p&gt;decide&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="304">
+              <answertext>&lt;p&gt;conclude&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="305">
+              <answertext>&lt;p&gt;match&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="306">
+              <answertext>&lt;p&gt;notice&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="307">
+              <answertext>&lt;p&gt;summarize&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="308">
+              <answertext>&lt;p&gt;infer&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="309">
+              <answertext>&lt;p&gt;label&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="310">
+              <answertext>&lt;p&gt;visualize ("see")&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="311">
+              <answertext>&lt;p&gt;compare&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="312">
+              <answertext>&lt;p&gt;repeat&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="313">
+              <answertext>&lt;p&gt;consider&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="314">
+              <answertext>&lt;p&gt;select&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="315">
+              <answertext>&lt;p&gt;define&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="316">
+              <answertext>&lt;p&gt;interpret&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="317">
+              <answertext>&lt;p&gt;list&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="318">
+              <answertext>&lt;p&gt;distinguish&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="319">
+              <answertext>&lt;p&gt;explain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="44">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="115">
+        <parent>0</parent>
+        <name>Question STem Matching with Bloom</name>
+        <questiontext>&lt;p&gt;Match each question stem (on the left) from Reciprocal Peer Teaching with the appropriate level (on the right) from Bloom’s taxonomy. (&lt;span style="text-decoration: underline;"&gt;Note&lt;/span&gt;: You will not use all levels of Bloom’s taxonomy.)&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926214758+rJu2VO</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131111161718+I5zI09</version>
+        <hidden>0</hidden>
+        <timecreated>1380232078</timecreated>
+        <timemodified>1384186638</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="11">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 500px; height: 200px;" border="0" cellspacing="0" cellpadding="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Reciprocal Peer Teaching&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Bloom's Taxonomy&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width="9"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the main idea of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Understand&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="9"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What are the strengths and weaknesses of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;valuate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is a new example of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the best _____ and why?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Evaluate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What conclusions can I draw about _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the difference between _____ and _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;How would I use _____ to _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;Explain why _____ . &lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct responses are:&lt;/p&gt;
+&lt;table style="width: 500px; height: 200px;" border="0" cellspacing="0" cellpadding="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Reciprocal Peer Teaching&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Bloom's Taxonomy&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width="9"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the main idea of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Understand&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="9"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What are the strengths and weaknesses of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;valuate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is a new example of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the best _____ and why?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Evaluate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What conclusions can I draw about _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the difference between _____ and _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;How would I use _____ to _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt; Explain why _____ . &lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct responses are:&lt;/p&gt;
+&lt;table style="width: 500px; height: 200px;" border="0" cellspacing="0" cellpadding="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Reciprocal Peer Teaching&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Bloom's Taxonomy&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td width="9"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the main idea of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td valign="top" width="126"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Understand&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="9"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What are the strengths and weaknesses of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;valuate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is a new example of _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the best _____ and why?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Evaluate&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What conclusions can I draw about _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;What is the difference between _____ and _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;How would I use _____ to _____?&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Apply&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="385"&gt;&lt;span style="font-size: small;"&gt;Explain why _____ . &lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="2" valign="top" width="135"&gt;
+&lt;p class="Default"&gt;&lt;span style="font-size: small;"&gt;Analyze&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>0</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="49">
+              <questiontext>&lt;p&gt;What is the main idea of _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Understand</answertext>
+            </match>
+            <match id="50">
+              <questiontext>&lt;p&gt;What are the strengths and weaknesses of _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Evaluate</answertext>
+            </match>
+            <match id="51">
+              <questiontext>&lt;p&gt;What is a new example of _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Apply</answertext>
+            </match>
+            <match id="52">
+              <questiontext>&lt;p&gt;What is the best _____ and why?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Evaluate</answertext>
+            </match>
+            <match id="53">
+              <questiontext>&lt;p&gt;What conclusions can I draw about _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Analyze</answertext>
+            </match>
+            <match id="54">
+              <questiontext>&lt;p&gt;What is the difference between _____ and _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Analyze</answertext>
+            </match>
+            <match id="55">
+              <questiontext>&lt;p&gt;How could I use _____ to _____?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Apply</answertext>
+            </match>
+            <match id="56">
+              <questiontext>&lt;p&gt;Explain why _____.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Analyze</answertext>
+            </match>
+            <match id="57">
+              <questiontext></questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Remember</answertext>
+            </match>
+            <match id="58">
+              <questiontext></questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Create</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="116">
+        <parent>0</parent>
+        <name>Questions Readers Should Ask Themselves</name>
+        <questiontext>&lt;p&gt;The KWL and Reciprocal Peer Questioning strategies are most useful for informational and persuasive texts. What are three of the questions that readers should ask themselves when reading literary texts?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Questions readers should ask themselves when reading literary texts include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Who&lt;/em&gt; &lt;em&gt;is the main character?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Why did the character do that?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What is the main problem?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How does the character attempt to solve the problem?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How is the problem resolved?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the three questions you identified included any of the above or were similar to them, then you answered the question correctly.&lt;em&gt; &lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In general readers of literary texts, using the KWL strategy, should ask questions that about what they know, want to know, and have learned from the reading as well as higher-order open-ended questions using the Reciprocal Peer Questioning Strategies.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926220123+wA5wrR</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926220123+lFlJcG</version>
+        <hidden>0</hidden>
+        <timecreated>1380232883</timecreated>
+        <timemodified>1380232883</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <answers>
+            <answer id="320">
+              <answertext>Who is the main character?</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="321">
+              <answertext>Why did the character do that?</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="322">
+              <answertext>What is the main problem?</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="323">
+              <answertext>How does the character attempt to solve the problem?</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="324">
+              <answertext>How is the problem resolved?</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <shortanswer id="16">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="117">
+        <parent>0</parent>
+        <name>What are some of the benefits to students when they develop their self-questioning, self- monitoring and reflection skills?</name>
+        <questiontext>&lt;p&gt;What are some of the benefits to students when they develop their self-questioning, self- monitoring and reflection skills?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Benefits to student development of self-questioning, self-monitoring, and reflection skills include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Enhanced ability to discover effective strategies;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Enhanced ability to change course when problems arise;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Improved discourse among learners and between learners and instructors;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Improved performance on tasks&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926220614+Z19Vkl</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131214004407+9kbeJW</version>
+        <hidden>0</hidden>
+        <timecreated>1380233174</timecreated>
+        <timemodified>1386981847</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="21">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>10</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="118">
+        <parent>0</parent>
+        <name>Reciprocal Peer Questioning and Reciprocal Teaching</name>
+        <questiontext>&lt;p&gt;How are Reciprocal Peer Questioning (RPQ) and Reciprocal Teaching (RT) similar? How are they different? Identify at least one similarity and at least one difference.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;The following are &lt;strong&gt;similarities&lt;/strong&gt; between Reciprocal Peer Questioning and Reciprocal Teaching:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Questioning,&lt;/li&gt;
+&lt;li&gt;Peer interaction and regular turns,&lt;/li&gt;
+&lt;li&gt;Teachers model and guide questioning.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following are &lt;strong&gt;differences&lt;/strong&gt; between Reciprocal Peer Questioning and Reciprocal Teaching: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RT includes 4 strategies,&lt;/li&gt;
+&lt;li&gt;RPQ uses question frames to prompt complex questions while RT just asks for main idea questions (and clarifying questions),&lt;/li&gt;
+&lt;li&gt;RPQ usually involves pairs while RT usually involves small groups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You may have listed other similarities and differences.  Revisit the video for a review on how RPQ and RT compare.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926221910+kvEpmV</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926224914+wYX8F7</version>
+        <hidden>0</hidden>
+        <timecreated>1380233950</timecreated>
+        <timemodified>1380235754</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="22">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>10</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="119">
+        <parent>0</parent>
+        <name>Question the Author</name>
+        <questiontext>&lt;p&gt;In Question the Author (QtA), students learn to ask questions of the author. How is this different from just asking questions about the text?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;There are many possible answers to this question.  Correct responses include:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;QtA prompts critical thinking about the author’s perspective.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;QtA promotes understanding that authors may be indirect (e.g., they may imply a character’s motivation).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;QtA encourages students to think about the author’s craft, which they may use in their own writing.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;QtA lets students know that problems with comprehension may be partly the fault of the author.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;Review &lt;span id="yui_3_5_1_1_1380234169131_615"&gt;&lt;span id="yui_3_5_1_1_1380234169131_614" style="color: #000000;"&gt;&lt;a id="yui_3_5_1_1_1380234169131_613" title="TEAL Center Fact Sheet No. 12 on Deeper Learning through Questioning" href="https://ovae-moodle-dev.myquotient.net/pluginfile.php/507/mod_page/content/9/TEAL%20Fact%20Sheet%20Deeper%20Learning%20.pdf" target="_blank"&gt;&lt;span id="yui_3_5_1_1_1380234169131_612" class="nolink"&gt;&lt;em id="yui_3_5_1_1_1380234169131_611"&gt;TEAL Center Fact Sheet No. 12 on Deeper Learning through Questioning&lt;/em&gt;&lt;/span&gt;&lt;/a&gt; for more information about &lt;/span&gt;&lt;/span&gt;Question the Author. &lt;/span&gt;&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926222552+FflBmJ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926224927+y2QDyz</version>
+        <hidden>0</hidden>
+        <timecreated>1380234352</timecreated>
+        <timemodified>1380235767</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="23">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>10</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="120">
+        <parent>0</parent>
+        <name>Self-Questioning and Monitoring Comprehension</name>
+        <questiontext>&lt;p&gt;How does self-questioning support the important metacognitive process of monitoring one’s comprehension?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Your response to this question should've explained that self-questioning supports monitoring one's comprehension because when you ask yourself a question about a reading passage and cannot answer it, you know that you need to re-read the text or do something to understand the text better.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926223022+3aCTL3</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926224059+xa5uB5</version>
+        <hidden>0</hidden>
+        <timecreated>1380234622</timecreated>
+        <timemodified>1380235259</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="24">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>10</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="121">
+        <parent>0</parent>
+        <name>Questions Readers Should Ask When Reading Literary Texts</name>
+        <questiontext>&lt;p&gt;The KWL and Reciprocal Peer Questioning strategies are most useful for informational and persuasive texts. What are three of the questions that readers should ask themselves when reading literary texts?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Questions readers should ask themselves when reading literary texts include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Who&lt;/em&gt; &lt;em&gt;is the main character?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Why did the character do that?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What is the main problem?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How does the character attempt to solve the problem?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How is the problem resolved?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the three questions you identified included any of the above or were similar to them, then you answered the question correctly.&lt;/p&gt;
+&lt;p&gt;In general readers of literary texts, using the KWL strategy, should ask questions that about what they know, want to know, and have learned from the reading as well as higher-order open-ended questions using the Reciprocal Peer Questioning Strategies.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926225459+GkYr54</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926225459+RDxd2G</version>
+        <hidden>0</hidden>
+        <timecreated>1380236099</timecreated>
+        <timemodified>1380236099</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="25">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>10</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="122">
+        <parent>0</parent>
+        <name>How can instructors help students monitor their own thinking and problem solving processes?</name>
+        <questiontext>&lt;p&gt;&lt;em&gt;“Students learn mathematics and solve problems better when they monitor their thinking and problem-solving steps as they solve problems.  Monitoring and reflecting during problem solving helps students think about what they are doing and why they are doing it, evaluate the steps they are taking to solve the problem, and connect new concepts to what they already know. The more students reflect on their problem-solving processes, the better their mathematical reasoning—and their ability to apply this reasoning to new situations—will be.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;/strong&gt;&lt;span style="line-height: 1.231;"&gt;The above quote is from &lt;/span&gt;&lt;a style="line-height: 1.231;" title="Improving Mathematical Problem Solving in Grades 4 through 8: A Practice Guide" href="http://ies.ed.gov/ncee/wwc/pdf/practice_guides/mps_pg_052212.pdf#page=29"&gt;&lt;em style="line-height: 1.231;"&gt;Improving Mathematical Problem Solving in Grades 4 through 8: A Practice Guide&lt;/em&gt;&lt;/a&gt;&lt;span style="line-height: 1.231;"&gt;.  How can instructors help students monitor their own thinking and problem solving processes?&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Instructors can help students moniotor their own thinking and problem solving processes if they:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Provide students with prompts or questioning sequences&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Model thinking out loud&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Ask students to explain their problem solving processes to the class&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;Encourage students to ask each other questions &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+131214001302+QMhHrs</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131214001302+tF9nWX</version>
+        <hidden>0</hidden>
+        <timecreated>1386979982</timecreated>
+        <timemodified>1386979982</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="26">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="123">
+        <parent>0</parent>
+        <name>What should you keep in mind when planning your lessons?</name>
+        <questiontext>&lt;p&gt;What should you keep in mind when planning your lessons?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+131214002446+uI2fox</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131214002446+s8y2cS</version>
+        <hidden>0</hidden>
+        <timecreated>1386980686</timecreated>
+        <timemodified>1386980686</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="325">
+              <answertext>&lt;p&gt;Anticipate student thinking.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="326">
+              <answertext>&lt;p&gt;Allow about 75% of class time for completing worksheets.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="327">
+              <answertext>&lt;p&gt;Focus primarily on questions that have one correct answer.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="328">
+              <answertext>&lt;p&gt;Use visuals sparingly. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="329">
+              <answertext>&lt;p&gt;Pose open questions.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="330">
+              <answertext>&lt;p&gt;Pose questions that actually need to be answered.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="331">
+              <answertext>&lt;p&gt;Incorporate verbs in your questions that elicit thinking in the higher levels of Bloom’s Taxonomy.      &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="332">
+              <answertext>&lt;p&gt;Limit discussion amongst students. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="333">
+              <answertext>&lt;p&gt;Keep questions neutral.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="334">
+              <answertext>&lt;p&gt;Provide wait time to allow students to respond.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="45">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="28">
+    <name>General</name>
+    <contextid>194</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>13</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>mentors.moodlerooms.com+100911210137+IGivEu</stamp>
+    <parent>27</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="124">
+        <parent>0</parent>
+        <name>What is Moodle?</name>
+        <questiontext>&lt;p&gt;What is Moodle?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911210725+bHC6Wn</stamp>
+        <version>mentors.moodlerooms.com+100911210725+PuK0F2</version>
+        <hidden>0</hidden>
+        <timecreated>1284239245</timecreated>
+        <timemodified>1284239245</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="335">
+              <answertext>A software application that serves as your "Online Classroom"</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="336">
+              <answertext>The name of the center providing the course</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>No. Moodle is a software application that serves as your &amp;quot;Online Classroom&amp;quot;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="337">
+              <answertext>How I get onto the internet</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>No. Moodle is a software application that serves as your &amp;quot;Online Classroom&amp;quot;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="46">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="125">
+        <parent>0</parent>
+        <name>number states in pilot</name>
+        <questiontext></questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911211655+SqYJiU</stamp>
+        <version>mentors.moodlerooms.com+100911211655+lkMCIX</version>
+        <hidden>0</hidden>
+        <timecreated>1284239815</timecreated>
+        <timemodified>1284239815</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <answers>
+            <answer id="338">
+              <answertext>12</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="339">
+              <answertext>twelve</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="340">
+              <answertext>5</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="341">
+              <answertext>1</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <shortanswer id="17">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="126">
+        <parent>0</parent>
+        <name>What is the name of the UDL instructor?</name>
+        <questiontext>What is the name of the UDL instructor?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911212253+sV4P4U</stamp>
+        <version>mentors.moodlerooms.com+100911212253+G7arJo</version>
+        <hidden>0</hidden>
+        <timecreated>1284240173</timecreated>
+        <timemodified>1284240173</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <answers>
+            <answer id="342">
+              <answertext>Heidi</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="343">
+              <answertext>Heidi Silver-Pacullia</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="344">
+              <answertext>Ms. Silver-Pacullia</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <shortanswer id="18">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="127">
+        <parent>0</parent>
+        <name>The TEAL center is located in Washington D.C.</name>
+        <questiontext>The TEAL center is located in Washington D.C.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911212408+3A32ft</stamp>
+        <version>mentors.moodlerooms.com+100911212408+xExpt8</version>
+        <hidden>0</hidden>
+        <timecreated>1284240248</timecreated>
+        <timemodified>1284240248</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="345">
+              <answertext>True</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>Yes</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="346">
+              <answertext>False</answertext>
+              <answerformat>2</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>No</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="24">
+            <trueanswer>345</trueanswer>
+            <falseanswer>346</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="128">
+        <parent>0</parent>
+        <name>Which office of the Department of Education funds TEAL?</name>
+        <questiontext>Which office of the Department of Education funds TEAL?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911212655+TS01gz</stamp>
+        <version>mentors.moodlerooms.com+100911212655+iw2Mhr</version>
+        <hidden>0</hidden>
+        <timecreated>1284240415</timecreated>
+        <timemodified>1284240415</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <answers>
+            <answer id="347">
+              <answertext>Office of Vocational and Adult Education (OVAE)</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="348">
+              <answertext>Office of Vocational and Adult Education</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="349">
+              <answertext>OVAE</answertext>
+              <answerformat>2</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <shortanswer id="19">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="129">
+        <parent>0</parent>
+        <name>Who belongs where?</name>
+        <questiontext>Who is a PD of TEAL and who oversees TEAL at OVAE?</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911213035+fcdq3r</stamp>
+        <version>mentors.moodlerooms.com+100911213035+IE8skt</version>
+        <hidden>0</hidden>
+        <timecreated>1284240635</timecreated>
+        <timemodified>1284240635</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="12">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>0</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="59">
+              <questiontext>TEAL</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mary Ann Corley</answertext>
+            </match>
+            <match id="60">
+              <questiontext>OVAE</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mary Jo Maralit</answertext>
+            </match>
+            <match id="61">
+              <questiontext></questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Larry Condelli</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="130">
+        <parent>0</parent>
+        <name>Who do you contact for technical assistance?</name>
+        <questiontext></questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.1000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>mentors.moodlerooms.com+100911213324+I3DJXY</stamp>
+        <version>mentors.moodlerooms.com+100911213324+0Udgzz</version>
+        <hidden>0</hidden>
+        <timecreated>1284240804</timecreated>
+        <timemodified>1284240804</timemodified>
+        <createdby>20</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="350">
+              <answertext>Mariesa Cash</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="351">
+              <answertext>Heidi Silver-Pacullia</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="47">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+</question_categories>

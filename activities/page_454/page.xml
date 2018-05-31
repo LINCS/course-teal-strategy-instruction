@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="82" moduleid="454" modulename="page" contextid="721">
+  <page id="82">
+    <name>Presentation: The Value of Teaching Comprehension Strategies</name>
+    <intro>&lt;p&gt;Watch this video on the research behind strategy instruction.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left; font-family: trebuchet ms,verdana,arial,helvetica,sans-serif;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span size="3"&gt;Now that you've read the &lt;span class="nolink"&gt;background readings,&lt;/span&gt; let's contextualize strategy instruction. Strategy instruction can be used for instruction in all content areas, especially for accomplishing reading and writing tasks. In all of its forms, it can be recognized as an approach that teaches the&lt;span style="color: #000000;"&gt; tools and techniques &lt;/span&gt;necessary for understanding, learning, and retaining new content and skills&lt;/span&gt;&lt;span size="3"&gt;&lt;span style="line-height: 115%;"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left; font-family: trebuchet ms,verdana,arial,helvetica,sans-serif;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;When working with adults learning academic material in college, Simpson and Nist (2000) insist that strategy instruction should take into consideration the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Understanding the academic task is critical;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Beliefs about learning influence how students read and study;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Quality instruction is essential--that is, instruction should be intense, of significant duration, metacognitive, explicit and direct, and should use relevant content;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Variety is important; no one strategy fits all!&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;These considerations make the approach more adult-oriented.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left; font-family: trebuchet ms,verdana,arial,helvetica,sans-serif;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;Watch this &lt;a title="Dr. Janice Dole Video" href="http://www.youtube.com/watch?v=5r7TVdsq-g4" target="_blank"&gt;video &lt;/a&gt;from Dr. Janice Dole, on the research behind strategy instruction and the importance of teaching reading comprehension strategies, such as summarization. Summarization is a key activity in which reading and writing reinforce each other; we will focus on summarization strategies in this course.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left; font-family: trebuchet ms,verdana,arial,helvetica,sans-serif;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;" size="3"&gt;You will recognize the gradual release model in Dr. Dole's talk as she discusses the importance of modeling ("I do") and guided practice ("We do"). She reminds teachers to spend more time on guided practice, working on the same strategy across various types of text to give learners enough time to practice and make the strategy their own. &lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1473689676</timemodified>
+  </page>
+</activity>

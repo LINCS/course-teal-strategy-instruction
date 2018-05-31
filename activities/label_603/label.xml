@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="159" moduleid="603" modulename="label" contextid="918">
+  <label id="159">
+    <name>General </name>
+    <intro>&lt;h4&gt;&lt;span class="label"&gt;&lt;span style="color: #000000; font-family: verdana,tahoma,arial,serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 25px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; font-size: large; display: inline ! important; float: none;"&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;General&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389308366</timemodified>
+  </label>
+</activity>
